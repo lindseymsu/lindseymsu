@@ -5,4 +5,4 @@ Aspiring Machine Learning Engineer specializing in:
 - Healthcare Imaging (Medical AI)
 - Brain-Computer Interfaces (Neural Systems)
 
-Currently building portfoilio in medical imaging and BCI technologies.
+Currently building a portfolio in medical imaging and BCI technologies.
