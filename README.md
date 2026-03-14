@@ -1,33 +1,33 @@
-# Hi, I'm Lindsey Phillips 
+# Lindsey Phillips
 
- BS in Artificial Intelligence + Minor in Cognitive Science @ Mississippi State University (2028)
+**BS in Artificial Intelligence — Mississippi State University (2028)**  
+Applied Neuroscience Minor · Cognitive Science Minor  
+📍 Mississippi · 📬 lll204@msstate.edu
 
- Targeting: **Machine Learning Engineer — Healthcare Imaging & Neurotech**
+---
+
+### What I'm Building Toward
+Machine Learning Engineer in Healthcare Imaging AI and Neurotech/BCI.  
+One of the few undergrad programs in the country combining formal AI + applied neuroscience + cognitive science.
 
 ---
 
-## What I'm Building
-- Medical image segmentation pipelines (CT, MRI, X-ray)
-- EEG/BCI signal processing + classification
-- Python + PyTorch + MONAI + MNE-Python
-
-## Currently Learning
-- Calculus III + Linear Algebra (math foundations for ML)
-- Python fundamentals → NumPy → deep learning
-- Trig crash course (unit circle, radians, identities)
-
-## Portfolio Repos
-| Repo | Focus |
-|------|-------|
-| [healthcare-imaging-portfolio](https://github.com/lindseymsu/healthcare-imaging-portfolio) | Medical imaging ML projects |
-| [bci-neural-systems-portfolio](https://github.com/lindseymsu/bci-neural-systems-portfolio) | BCI + EEG signal processing |
-| [coursework-projects](https://github.com/lindseymsu/coursework-projects) | MSU coursework + labs |
-
-## Next Milestones
-- [ ] Complete Python fundamentals
-- [ ] Build first chest X-ray classifier
-- [ ] First Kaggle medical imaging competition
-- [ ] Join MONAI open source community
+### Currently Learning
+- PyTorch · MONAI · CNNs · U-Net architectures
+- Medical imaging (DICOM, NIfTI, segmentation pipelines)
+- EEG signal processing · MNE-Python · BCI fundamentals
+- C++ · Linear Algebra · Discrete Mathematics (MSU coursework)
 
 ---
-*Mom of 3 | Building a career in healthcare AI one commit at a time*
+
+### Portfolio Projects (In Progress — 2026)
+🔨 [healthcare-imaging-portfolio](https://github.com/lindseymsu/healthcare-imaging-portfolio) — Chest X-Ray classifier, retinal segmentation, BraTS brain tumor segmentation  
+🔨 [bci-neural-systems-portfolio](https://github.com/lindseymsu/bci-neural-systems-portfolio) — EEG motor imagery, sleep staging, real-time attention monitor  
+
+---
+
+### Tech
+`Python` `PyTorch` `C++` `NumPy` `Pandas` `scikit-learn` `MONAI` `MNE-Python` `Git`
+
+---
+
